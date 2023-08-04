@@ -1,0 +1,57 @@
+{
+  "sneakers": [
+    {
+      "name": "Чоловічі кросівки Nike Air Max 270",
+      "price": 5499,
+      "imageUrl": "/img/Sneakers/1.jpg"
+    },
+    {
+      "name": "Чоловічі кросівки Nike Blazer Mid Suede",
+      "price": 7600,
+      "imageUrl": "/img/Sneakers/2.jpg"
+    },
+    {
+      "name": "Чоловічі кросівки Nike Kyrie 4",
+      "price": 3300,
+      "imageUrl": "/img/Sneakers/3.jpg"
+    },
+    {
+      "name": "Кросівки Puma X Aka Boku Future Rider",
+      "price": 4359,
+      "imageUrl": "/img/Sneakers/4.jpg"
+    },
+    {
+      "name": "Чоловічі кросівки Under Armour Curry 8",
+      "price": 5699,
+      "imageUrl": "/img/Sneakers/5.jpg"
+    },
+    {
+      "name": "Чоловічі кросівки Nike Kyrie 7",
+      "price": 8100,
+      "imageUrl": "/img/Sneakers/6.jpg"
+    },
+    {
+      "name": "Чоловічі кросівки Jordan Air Jordan 11",
+      "price": 2400,
+      "imageUrl": "/img/Sneakers/7.jpg"
+    },
+    {
+      "name": "Чоловічі кросівки Nike LeBron XVIII",
+      "price": 8499,
+      "imageUrl": "/img/Sneakers/8.jpg"
+    },
+    {
+      "name": "Чоловічі кросівки Nike Lebron XVIII Low",
+      "price": 7350,
+      "imageUrl": "/img/Sneakers/9.jpg"
+    },
+    {
+      "name": "Чоловічі кросівки Nike Kyrie Flytrap IV",
+      "price": 7350,
+      "imageUrl": "/img/Sneakers/10.jpg"
+    }
+  ],
+  "cart": [],
+  "favor": [],
+  "orders": []
+}
